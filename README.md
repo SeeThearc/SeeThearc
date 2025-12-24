@@ -23,3 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/SeeThearc/SeeThearc/blob/output/github-snake-dark.svg)
+
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=542917&height=120&section=footer)
