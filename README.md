@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a third-year B.Tech Computer Science student with a strong academic foundation.<br>💻 I have strong programming skills in C++, Python, C, Java, and Solidity.<br>🌐 I have hands-on experience in full stack development, building scalable and user-friendly applications.<br>🤖 I am currently learning Machine Learning and working on practical, data-driven models.<br>🔗 I am exploring Blockchain technologies, including smart contracts and decentralized applications.<br>🚀 I am passionate about problem-solving, continuous learning, and developing real-world solutions.
+🎓 I am a fourth-year B.Tech Computer Science student with a strong academic foundation.<br>💻 I have strong programming skills in C++, Python, C, Java, and Solidity.<br>🌐 I have hands-on experience in full stack development, building scalable and user-friendly applications.<br>🤖 I am currently learning Machine Learning and working on practical, data-driven models.<br>🔗 I am exploring Blockchain technologies, including smart contracts and decentralized applications.<br>🚀 I am passionate about problem-solving, continuous learning, and developing real-world solutions.
 
 
 ## 🌐 Socials:
