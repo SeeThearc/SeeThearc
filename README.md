@@ -1,5 +1,16 @@
 # 💫 About Me:
-🎓 I am a fourth-year B.Tech Computer Science student with a strong academic foundation.<br>💻 I have strong programming skills in C++, Python, C, Java, and Solidity.<br>🌐 I have hands-on experience in full stack development, building scalable and user-friendly applications.<br>🤖 I am currently learning Machine Learning and working on practical, data-driven models.<br>🔗 I am exploring Blockchain technologies, including smart contracts and decentralized applications.<br>🚀 I am passionate about problem-solving, continuous learning, and developing real-world solutions.
+🎓 I am a fourth-year B.Tech Computer Science student with a strong academic foundation.<br>
+💻 I have strong programming skills in C++, Python, JavaScript, Java, C, SQL, and Solidity, with a strong foundation in Data Structures & Algorithms.<br>
+🌐 I have hands-on experience in full-stack development, building scalable and user-friendly applications using React, Node.js, Express, MongoDB, and modern web technologies.<br>
+
+🤖 I am actively working with Artificial Intelligence, Machine Learning, and Generative AI, building practical AI-powered applications and exploring LLM-based systems.<br>
+
+🧠 I have experience with LangChain and LangGraph for building AI agents, tool-calling workflows, and intelligent application pipelines, along with working with LLMs and RAG-based architectures.<br>
+
+⚙️ I enjoy working across different areas of software engineering, including backend systems, databases, AI/ML, networking, and distributed systems.<br>
+
+🚀 I am passionate about problem-solving, continuous learning, and building real-world solutions by combining strong software engineering with emerging technologies.<br>
+
 
 
 ## 🌐 Socials:
